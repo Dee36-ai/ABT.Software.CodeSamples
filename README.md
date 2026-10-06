@@ -1,3 +1,4 @@
+HEAD
 # Appointment Booking — Code Sample
 
 A selected and anonymised code sample demonstrating how I approach
@@ -103,3 +104,7 @@ Run the test suite with:
 
 ```bash
 dotnet test
+
+# ABT.Software.CodeSamples
+Selected ABT Software code samples demonstrating .NET, Clean Architecture, CQRS, and SaaS engineering.
+365e2a2e6a67fcec6002ab3b0d81276591295c0d
